@@ -1,0 +1,19 @@
+- links:
+    - link: /products
+      linktext: PRODUCTS
+    - link: /dealers
+      linktext: DEALER TOOLS
+    - link: /gallery
+      linktext: GALLERY
+    - link: ../pdf/salesandconditions.pdf
+      linktext: Sales Terms & Conditions
+  sociallinks:
+    facebook: https://www.facebook.com/TEK-Industries-Metal-Roofing-Supply-620992491686019
+    twitter: https://twitter.com
+    insta: https://instagram.com
+    linkedin: https://linkedin.com
+  text: THE
+  text2: MOST DURABLE
+  text3: METAL ROOF IN THE INDUSTRY.
+  image: ../images/tek-industries-logo-small.png
+  page: footer

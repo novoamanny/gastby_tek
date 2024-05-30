@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "workspaces": [
+    "gatsby-theme-template-tek",
+    "site"
+  ],
+  "dependencies": {
+    "gatsby-plugin-netlify-cms": "^4.1.26",
+    "netlify-cms-app": "^2.9.7"
+  }
+}

@@ -1,0 +1,68 @@
+backend:
+  name: git-gateway
+
+media_folder: site/static/uploads/
+public_folder: /uploads/
+
+collections:
+  # - name: 'feature'
+  #   label: 'Features'
+  #   folder: 'site/data/homescroller'
+  #   create: true
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Name', name: 'name', widget: 'string' }
+  #     - { label: 'Header Top', name: 'headerTopLine', widget: 'string' }
+  #     - { label: 'Header Large', name: 'headerLargeWord', widget: 'string' }
+  #     - { label: 'Header Bottom', name: 'headerBottomLine', widget: 'string' }
+  #     - { label: 'Detail', name: 'detail', widget: 'string' }
+  #     - { label: 'Image', name: 'image', widget: 'string' }
+  #     - { label: 'Tab Image', name: 'tabImage', widget: 'string' }
+  #     - { label: 'Order', name: 'order', widget: 'number' }
+  - name: 'quote'
+    label: 'Quotes'
+    folder: 'site/data/hometestimonial'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Quote', name: 'quote', widget: 'string' }
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Descriptor', name: 'descriptor', widget: 'string' }
+  - name: 'Dealer Tool'
+    label: 'Dealer Tools'
+    folder: 'site/data/items'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'File', name: 'file', widget: 'file', required: false }
+      - { label: 'URL', name: 'url', widget: 'string', required: false }
+  # - name: 'sections'
+  #   label: 'Sections'
+  #   files:
+  #     - label: 'Page Sections'
+  #       name: 'pages'
+  #       file: 'site/data/sections/sections.yml'
+  #       fields:
+  #         - label: 'DataSections'
+  #           name: 'datasection'
+  #           widget: 'list'
+  #           fields:
+  #             - { label: 'Text', name: 'text', widget: 'string' }
+  #             - { label: 'Text2', name: 'text2', widget: 'string' }
+  #             - { label: 'Text3', name: 'text3', widget: 'string' }
+  #             - { label: 'Text4', name: 'text4', widget: 'string' }
+  #             - { label: 'Text5', name: 'text5', widget: 'string' }
+  #             - { label: 'ButtonText', name: 'buttonText', widget: 'string' }
+  #             - { label: 'ButtonText2', name: 'buttonText2', widget: 'string' }
+  #             - { label: 'Sidetext', name: 'sidetext', widget: 'string' }
+  #             - { label: 'videoSrcURL', name: 'videoSrcURL', widget: 'string' }
+  #             - { label: 'image', name: 'image', widget: 'string' }
+  #             - { label: 'image2', name: 'image2', widget: 'string' }
+  #             - { label: 'Page', name: 'page', widget: 'string' }
+  #             - { label: 'Section', name: 'section', widget: 'number' }

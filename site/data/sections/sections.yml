@@ -1,0 +1,392 @@
+# Page Sections
+
+## Home Page Sections
+
+- text: TEK ROOFING
+  text2: MOST DURABLE METAL ROOF IN THE INDUSTRY.
+  text3: Lorem ipsum dolor amet master cleanse art party paleo PBR&B schlitz mixtape whatever yr migas messenger bag single-origin coffee.
+  text4: ''
+  text5: ''
+  buttonText: MORE
+  buttonText2: ''
+  sidetext: ''
+  videoSrcURL: ''
+  image: ../images/hometop.jpg
+  image2: ../images/hometop.jpg
+  page: home
+  section: 1
+
+- text: What is the HURRICANE effect?
+  text2: The most exceptional metal roof in the industry.
+  text3: The last roof you'll ever have to buy.
+  text4: THE BEST ROOFING FOR SEVERE WEATHER
+  text5: The HURRICANE® Metal Shake has the highest wind rating available, suited with foam insulation inserts and built in radiant barrier. HURRICANE® Metal Shake passed the ASTM E1592 test at CAT5 windspeeds. The TEK® Industries team has put together a product and strategy that brings you a beautifully crafted high TEK Roofing solution. Not only can the Hurricane Metal Shake withstand CAT5 windspeeds it also can withstand up to 2″ Hail.
+  buttonText: MORE
+  buttonText2: ''
+  sidetext: ''
+  videoSrcURL: ''
+  image: ../images/hurricane-shake-logo-TEK.png
+  image2: ../images/extreme-durability-shield-graphic.png
+  page: home
+  section: 2
+
+- text: BEAUTIFUL
+  text2: DURABLE
+  text3: EFFICIENT
+  text4: Lorem ipsum dolor amet master cleanse art party paleo PBR&B schlitz mixtape whatever yr migas messenger bag single-origin coffee.
+  text5: ''
+  buttonText: MORE
+  buttonText2: ''
+  sidetext: ''
+  videoSrcURL: ''
+  image: ../images/tek-square-logo.png
+  image2: ../images/slim-header.jpg
+  page: home
+  section: 3
+
+- text: THE ORIGINAL HURRICANE METAL SHAKE WITH ADDED INTERLOCKING TECHNOLOGY
+  text2: The Most exceptional metal roof in the industry.
+  text3: ''
+  text4: ''
+  text5: For severe weather regions, HURRICANE® Metal Shake Pro is the perfect solution. It has additional fasteners per panel, and each fastener designed with higher corrosion-resistance coating. Hurricane Shake has a 2-pound density foam insert made from a CNC Machine. HURRICANE® Metal Shake passed the Florida Building Code Approval FL#38136 with the highest rating for both uplift and impact testing.
+  buttonText: MORE
+  buttonText2: ''
+  sidetext: ''
+  videoSrcURL: ''
+  image: ../images/hurricane-pro-logo.png
+  image2: ../images/interlocking-technology-graphic.png
+  page: home
+  section: 4
+
+- text: TEK HURRICANE METAL SHAKE
+  text2: ''
+  text3: ''
+  text4: ''
+  text5: ''
+  buttonText: VIEW GALLERY
+  buttonText2: ''
+  sidetext: ''
+  videoSrcURL: ''
+  image: null
+  image2: null
+  page: home
+  section: 5
+
+- text: BECOME A TEK INDUSTRIES DEALER
+  text2: Logo and div header here
+  text3: When TEK Industries brings a new roofing company into our family of partners and clients, we want everyone to succeed and progress.  That's why we're helping companies that have traditionally focused on fixing roofs now expand their vision and diversify their profit-making.
+  text4: ''
+  text5: ''
+  buttonText: MORE
+  buttonText2: ''
+  sidetext: ''
+  videoSrcURL: ''
+  image: ../images/hurricane-shake-TEK-box.png
+  image2: ../images/tek-industries-roofing-partner.png
+  page: home
+  section: 6
+
+## About Page Sections
+
+- text: Tek Roofing
+  text2: null
+  text3: null
+  text4: null
+  text5: null
+  buttonText: About Us
+  buttonText2: null
+  sidetext: ABOUT US
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: about
+  section: 1
+
+## Contact Page Sections
+
+- text: null
+  text2: null
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: contact
+  section: 1
+
+## Products Page
+
+- text: THE BEST ROOFING FOR SEVERE WEATHER
+  text2: TEK HIDDEN FASTENER TECHNOLOGY
+  text3: HURRICANE® METAL SHAKE
+  text4: HURRICANE® METAL SHAKE PRO
+  text5: null
+  buttonText:
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/roof-before.jpg
+  image2: ../images/roof-after.jpg
+  page: products
+  section: 1
+
+- text: UNLEASH THE BEAST! - HURRICANE METAL SHAKE
+  text2: null
+  text3: The HURRICANE® Metal Shake has the highest wind rating available, suited with foam insulation inserts and built in radiant barrier. HURRICANE® Metal Shake passed the ASTM E1592 test at CAT5 windspeeds. The TEK® Industries team has put together a product and strategy that brings you a beautifully crafted high TEK Roofing solution. Not only can the Hurricane Metal Shake withstand CAT5 windspeeds it also can withstand up to 2″ Hail.
+  text4: null
+  text5: null
+  buttonText:
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/hurricane-shake-logo-TEK.png
+  image2: ../images/extreme-durability-shield-graphic.png
+  page: products
+  section: 2
+
+- text: THE ORIGINAL HURRICANE METAL SHAKE WITH ADDED INTERLOCKING TECHNOLOGY
+  text2: null
+  text3: For severe weather regions, HURRICANE® Metal Shake Pro is the perfect solution. It has additional fasteners per panel, and each fastener designed with higher corrosion-resistance coating. Hurricane Shake has a 2-pound density foam insert made from a CNC Machine. HURRICANE® Metal Shake passed with the highest rating for both uplift and impact testing.
+  text4: null
+  text5: null
+  buttonText:
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/hurricane-pro-logo.png
+  image2: ../images/interlocking-technology-graphic.png
+  page: products
+  section: 3
+
+- text: THE BEST ROOFING FOR SEVERE WEATHER
+  text2: null
+  text3: For severe weather regions, HURRICANE® Metal Shake is the perfect solution. It has additional fasteners per panel, and each fastener designed with higher corrosion-resistance coating. Hurricane Shake has a 2-pound density foam insert made from a CNC Machine. HURRICANE® Metal Shake passed with the highest rating for both uplift and impact testing.
+  text4: null
+  text5: null
+  buttonText: VIEW PRODUCT COMPARISON CHART
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/tek-layers.jpg
+  image2: ../images/check-mark.png
+  page: products
+  section: 4
+
+- text: THE BEST ROOFING FOR SEVERE WEATHER
+  text2: null
+  text3: For severe weather regions, HURRICANE Metal Shake is the perfect solution. It has additional fasteners per panel....
+  text4: null
+  text5: null
+  buttonText: VIEW PRODUCT COMPARISON CHART
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: products
+  section: 5
+
+- text: HURRICANE SHAKE UPLIFT GRAPH
+  text2: The Hurricane Shake windspeed and pressure test withstood over 140mph winds.
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/wind-speed-and-pressure.png
+  image2: null
+  page: products
+  section: 6
+
+- text: SOMETHING TO BE EXCITED ABOUT
+  text2: null
+  text3: As you’d expect, interest in TEK® roofing products is skyrocketing and more homeowners are taking advantage of this opportunity each day. As they learn more of the details, they realize how crazy it would be to miss out on this great investment. Metal roofing by its nature endures better than any other solution. The homeowners’ insurance company should be able to offer them a discount on insurance premiums for Class 4 Roofing, an additional savings!
+  text4: null
+  text5: null
+  buttonText: VIEW PRODUCT SPECS
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: products
+  section: 7
+
+- text: THIS IS SECTION 8
+  text2: null
+  text3: This is content for scetion 8. Specifically the text3 portion.
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: products
+  section: 8
+
+- text: null
+  text2: null
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/squared-roof-preview.jpg
+  image2: null
+  page: products
+  section: 9
+
+  ## Gallery Page
+- text: TEK GALLERY
+  text2: SUBHEAD PROJECT GALLERY
+  text3: HURRICANE METAL SHAKE PROJECTS
+  text4: HURRICANE METAL SHAKE PRO PROJECTS
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/gallerytop.jpg
+  image2: null
+  page: gallery
+  section: 1
+
+  ## Dealers Page
+- text: TEK DEALER TOOLS
+  text2: AND TECHNICAL RESOURCES
+  text3: When Tek Industries brings a new roofing company into our family of partners and clients, we want everyone to succeed and progress.
+  text4: HURRICANE METAL SHAKE PRO PROJECTS
+  text5: null
+  buttonText: Become A Dealer
+  buttonText2: Install Methods
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/dealer-tools-roof.jpg
+  image2: null
+  page: dealers
+  section: 1
+
+- text: WHY ROOFING COMPANIES SHOULD PARTNER WITH TEK INDUSTRIES AND EXPAND TO A DEALER ROLE
+  text2: An exclusive opportunity is on hand, provided by TEK® Industries for roofing materials dealers across the nation. This new event gives you direct access to the best metal shake products on the market. By avoiding an additional distributor, it lets you purchase at a reduced price, then pass those savings on to your customers. This opens the way for increased orders and increased profits.
+  text3: When TEK® Industries brings a new roofing company into our family of partners and clients, we want everyone to succeed and progress. That’s why we’re helping companies that have traditionally focused on fixing roofs now expand their vision and diversify their profit-making. With the exclusive access to the best-of-class roofing materials that we provide, you can make waves in the roofing industry. You will be able to supply other roofers with high quality metal shake and, just as easily, provide outstanding deals for the customers who want to work with you directly. These new opportunities are possible when you become part of the TEK® Industries family.
+  text4: null
+  text5: null
+  buttonText: Become A Tek Industry Dealer
+  buttonText2: Install Methods
+  sidetext: null
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: dealers
+  section: 2
+
+- text: INSTALLATION METHODS
+  text2: Step by step install methods for Metal Pro-X Hip Cap and hip flashing installation.
+  text3: null
+  text4: null
+  text5: null
+  buttonText: VIEW
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/roofers-working.jpg
+  image2: null
+  page: dealers
+  section: 3
+
+- text: null
+  text2: null
+  text3: HURRICANE METAL SHAKE
+  text4: HURRICANE ® METAL SHAKE PRO
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: dealers
+  section: 4
+
+  ## Install Page
+- text: TEK HIP CAPS
+  text2: Metal Pro-X Hip Cap Installation Hip Cap Installation
+  text3: Hip Flashing Foot brake tool is required
+  text4: Hip Flashing Foot brake tool is required
+  text5: null
+  buttonText: More
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/testimonial-image.jpg
+  image2: ../images/installs-header-2.jpg
+  page: installs
+  section: 1
+
+- text: BECOME A TEK INDUSTRIES DEALER
+  text2: When TEK® Industries brings a new roofing company into our family of partners and clients, we want everyone to succeed and progress. That’s why we’re helping companies that have traditionally focused on fixing roofs now expand their vision and diversify their profit-making.
+  text3: null
+  text4: null
+  text5: null
+  buttonText: More
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/tek-industries-roofing-partner-red.png
+  image2: null
+  page: installs
+  section: 2
+
+## Install Page
+- text: TEK HIP CAPS
+  text2: Metal Pro-X Hip Cap Installation Hip Cap Installation
+  text3: Hip Flashing Foot brake tool is required
+  text4: Hip Flashing Foot brake tool is required
+  text5: null
+  buttonText: More
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/testimonial-image.jpg
+  image2: ../images/installs-header-2.jpg
+  page: installs
+  section: 1
+
+- text: BECOME A TEK INDUSTRIES DEALER
+  text2: When TEK® Industries brings a new roofing company into our family of partners and clients, we want everyone to succeed and progress. That’s why we’re helping companies that have traditionally focused on fixing roofs now expand their vision and diversify their profit-making.
+  text3: null
+  text4: null
+  text5: null
+  buttonText: More
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/tek-industries-roofing-partner-red.png
+  image2: null
+  page: installs
+  section: 2
+
+## 404 Page
+- text: OOPS! THAT PAGE CAN’T BE FOUND.
+  text2: The page you are trying to reach doesn't exist.
+  text3: null
+  text4: null
+  text5: null
+  buttonText: Visit Our Home Page
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/squared-roof-preview.jpg
+  image2: null
+  page: pagenotfound
+  section: 1
